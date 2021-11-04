@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 💡 I'm a technophile - a software engineer professionally and a technology enthusiast by nature! <br/>
 🎓 I'm a December '21 [University of Southern California](https://www.usc.edu) Physics & Computer Science grad. ✌️<br/>
 💻 My experience involves frontend dev, backend dev, machine learning, operating systems, and product management.<br/>
-🌱 What I'm currently learning:  
-    * Applications of AI
-        + Unsupervised ML (K-means clustering)
-        + Supervised ML (linear/logistic regression, KNN classification, neural networks (CNNs, ANNs))
-		* Libraries/frameworks
-				+ SciKit Learn, Tensorflow, Keras, Matplotlib, Pandas, NumPy
+🌱 What I'm currently learning:<br/>
+			* Applications of AI<br/>
+						+ Unsupervised ML (K-means clustering)<br/>
+						+ Supervised ML (linear/logistic regression, KNN classification, neural networks (CNNs, ANNs))<br/>
+			* Libraries/frameworks<br/>
+						+ SciKit Learn, Tensorflow, Keras, Matplotlib, Pandas, NumPy<br/>
 🚀 I'm an incoming SDE at Mastercard in the NYC office. <br/>
 ⚡️🕺🏻 Hobbies/random interests: Coffee, Speed Chess, Stocks, Swimming, Tennis, Hiking, Sustainability, Politics, Traveling <br/>
-💬 Feel free to reach out to me for getting coffee, general consulting, contracting/freelancing, or anything coding related!
+💬 Feel free to reach out to me for getting coffee, general consulting, contracting/freelancing, or anything coding related!<br/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -79,7 +79,7 @@ Otherwise, feel free to connect with me via any of the following:
 <a href="mailto:arjun.bamba128@gmail.com">
 	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
 </a> &nbsp;
-<a href="hhttps://twitter.com/arjun_bamba" target="_blank">
+<a href="https://twitter.com/arjun_bamba" target="_blank">
 	<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
 </a>
 
