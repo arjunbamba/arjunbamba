@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 🎓 I'm a December '21 [University of Southern California](https://www.usc.edu) Physics & Computer Science grad. ✌️<br/>
 💻 My experience involves frontend + backend dev, machine learning, operating systems, & product management.<br/>
 🌱 What I'm currently learning:<br/>
-			* Applications of AI<br/>
-									+ Unsupervised ML (K-means clustering)<br/>
-									+ Supervised ML (linear/logistic regression, KNN classification, neural networks (CNNs, ANNs))<br/>
-			* Libraries/frameworks<br/>
-									+ SciKit Learn, Tensorflow, Keras, Matplotlib, Pandas, NumPy<br/>
+    * Applications of AI<br/>
+	      + Unsupervised ML (K-means clustering)<br/>
+		        + Supervised ML (linear/logistic regression, KNN classification, neural networks (CNNs, ANNs))<br/>
+		  * Libraries/frameworks<br/>
+		        + SciKit Learn, Tensorflow, Keras, Matplotlib, Pandas, NumPy<br/>
 🚀 I'm an incoming SDE at Mastercard in the NYC office. <br/>
 ⚡️🕺🏻 Hobbies/random interests: Coffee, Speed Chess, Stocks, Swimming, Tennis, Hiking, Sustainability, Politics, Traveling <br/>
 💬 Feel free to reach out to me for getting coffee, general consulting, contracting/freelancing, or anything coding related!<br/>
@@ -41,13 +41,13 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp; \
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp; \
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)&nbsp;
