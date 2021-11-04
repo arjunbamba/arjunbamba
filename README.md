@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 About Me 
 💡 I'm a technophile - a software engineer professionally and a technology enthusiast by nature! <br/>
 🎓 I'm a December '21 [University of Southern California](https://www.usc.edu) Physics & Computer Science grad. ✌️<br/>
-💻 My experience involves frontend dev, backend dev, machine learning, operating systems, and product management.<br/>
+💻 My experience involves frontend + backend dev, machine learning, operating systems, & product management.<br/>
 🌱 What I'm currently learning:<br/>
 			* Applications of AI<br/>
-						+ Unsupervised ML (K-means clustering)<br/>
-						+ Supervised ML (linear/logistic regression, KNN classification, neural networks (CNNs, ANNs))<br/>
+							+ Unsupervised ML (K-means clustering)<br/>
+							+ Supervised ML (linear/logistic regression, KNN classification, neural networks (CNNs, ANNs))<br/>
 			* Libraries/frameworks<br/>
-						+ SciKit Learn, Tensorflow, Keras, Matplotlib, Pandas, NumPy<br/>
+							+ SciKit Learn, Tensorflow, Keras, Matplotlib, Pandas, NumPy<br/>
 🚀 I'm an incoming SDE at Mastercard in the NYC office. <br/>
 ⚡️🕺🏻 Hobbies/random interests: Coffee, Speed Chess, Stocks, Swimming, Tennis, Hiking, Sustainability, Politics, Traveling <br/>
 💬 Feel free to reach out to me for getting coffee, general consulting, contracting/freelancing, or anything coding related!<br/>
