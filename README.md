@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 About Me 
 💡 I'm a technophile - a software engineer professionally and a technology enthusiast by nature! <br/>
 🎓 I'm a December '21 [University of Southern California](https://www.usc.edu) Physics & Computer Science grad. ✌️<br/>
-💻 My experience involves frontend + backend dev, machine learning, operating systems, & product management.<br/>
+💻 My experience: frontend + backend dev, machine learning, operating systems, & product management.<br/>
 🌱 What I'm currently learning:
 * Applications of AI
   * Unsupervised ML (K-means clustering)
