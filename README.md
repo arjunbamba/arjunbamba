@@ -68,13 +68,11 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /><br/>
 
 ### Spotify Playing 🎧
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=amex51j00wv49vcowghqem445) \
-
-<br/>
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=amex51j00wv49vcowghqem445)
 
 ---
 
