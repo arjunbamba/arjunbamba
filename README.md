@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-![Spotify](https://lastfm-recently-played.vercel.app/api?user=amex51j00wv49vcowghqem445)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=amex51j00wv49vcowghqem445)
 
 ---
 
