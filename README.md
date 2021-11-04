@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   * Unsupervised ML (K-means clustering)
   * Supervised ML (linear/logistic regression, KNN classification, neural networks (CNNs, ANNs))
 * Libraries/frameworks
-  * SciKit Learn, Tensorflow, Keras, Matplotlib, Pandas, NumPy
+  * Scikit-Learn, Tensorflow, Keras, Matplotlib, Pandas, NumPy
 
 🚀 I'm an incoming SDE at Mastercard in the NYC office. <br/>
 🕺🏻 Interests: Coffee, Speed Chess, Stocks, Swimming, Tennis, Hiking, Sustainability, Politics, Traveling <br/>
@@ -86,50 +86,6 @@ Otherwise, feel free to connect with me via any of the following:
 <br/>
 <br/>
 
+<!-- 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arjunbamba.arjunbamba)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ -->
