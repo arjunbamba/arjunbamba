@@ -52,12 +52,6 @@ Here are some ideas to get you started:
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)&nbsp;
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)&nbsp;
-![C](https://img.shields.io/badge/-C-000?&logo=C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)&nbsp;
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)&nbsp;
-
 ### Developer Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -75,14 +69,15 @@ Otherwise, feel free to connect with me via any of the following:
 
 <a href="https://www.linkedin.com/in/arjunbamba/" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+</a>&nbsp;
 <a href="mailto:arjun.bamba128@gmail.com">
 	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-</a> &nbsp;
+</a>&nbsp;
 <a href="https://twitter.com/arjun_bamba" target="_blank">
 	<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
 </a>
 
+<br/>
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arjunbamba.arjunbamba)
