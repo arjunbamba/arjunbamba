@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   * Supervised ML (linear/logistic regression, KNN classification, neural networks (CNNs, ANNs))
 * Libraries/frameworks
   * SciKit Learn, Tensorflow, Keras, Matplotlib, Pandas, NumPy
+
 🚀 I'm an incoming SDE at Mastercard in the NYC office. <br/>
 🕺🏻 Hobbies/random interests: Coffee, Speed Chess, Stocks, Swimming, Tennis, Hiking, Sustainability, Politics, Traveling <br/>
 💬 Feel free to reach out to me for getting coffee, consulting, contracting/freelancing, or anything coding related!<br/>
